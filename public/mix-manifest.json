@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/lib/bootstrap.bundle.min.js": "/js/lib/bootstrap.bundle.min.js",
+    "/js/core/base.js": "/js/core/base.js",
+    "/css/app.css": "/css/app.css",
+    "/vendors/js/vendors.min.js": "/vendors/js/vendors.min.js",
+    "/js/pages/app-client-pages.js": "/js/pages/app-client-pages.js"
+}
